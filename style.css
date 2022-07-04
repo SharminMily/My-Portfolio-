@@ -1,0 +1,55 @@
+body{
+    font-family: 'Arima', cursive;
+    padding-left: 5% ;
+}
+h1{
+    font-size: 50px;
+
+}
+.pink-color{
+    color: rgb(194, 22, 102);
+}
+.flexible-containe{
+  display: flex;
+  margin-bottom: 150px;  
+}
+.half-width{
+    width: 50%;
+    padding-right: 2%;
+    
+}
+hlaf-width img{
+    width: 80px;
+      
+}
+.link-button{
+  text-decoration: none; 
+  background-image: linear-gradient(orange, tomato); 
+  padding: 10px 30px;
+  color: rgb(54, 45, 129);
+  font-weight: 900;  
+  border-radius: 5px;
+}
+.dream-big{
+  padding-right: 30px; 
+  padding-left: 15px;   
+}
+.Experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+#Full-Stack{
+  border-left: 7px solid tomato;
+}
+#small-web{
+  border-left: 7px solid rgb(16, 46, 129);
+}
+footer p{
+  text-align: center;
+}
